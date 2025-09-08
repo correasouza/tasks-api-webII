@@ -1,0 +1,13 @@
+{
+  "name": "creation-tasks",
+  "version": "1.0.0",
+  "main": "/src/server.js",
+  "type": "module",
+  "scripts": {
+    "dev": "node --watch src/server.js"
+  },
+  "keywords": [],
+  "author": "Igor Santos",
+  "license": "ISC",
+  "description": ""
+}
